@@ -1,4 +1,4 @@
-# Title
+# Are we what we eat ?
 
 # Abstract
 You have probably already heard the quote "we are what we eat" which is already a quick data analysis, most of the time referring to a link between the quality of our health and the quality of the food we eat. With a food inspection dataset, we hope to find out the relation between food quality and different locations (in the city of Chicago in our case). To conclude, we would like to go into a deeper analysis providing an understanding beyond geography by locally linking food industries to social status. 
