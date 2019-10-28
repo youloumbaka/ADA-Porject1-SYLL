@@ -13,8 +13,12 @@ Based on the questions above, can the local food avaialable define a location al
 We are going to use the Chicago Food Inspections dataset. We expect it to mainly show us the connections between locations and the risks (which is a direct link to quality). Then we will need more resources/research to link those locations to types of communities, which people live/frequent these places and a general socio-cultural vision based on location which will enable us to link alimentation and social status.
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+The next steps to achieve milestone 2:
+1) Load the dataset and do a overview analysis of the data (missing values, typing errors, etc).
+2) Base on step 1, start a first cleaning of the data.
+3) Now for our analysis we will need to decide which information we need by choosing which representations/relations we want to start plotting.
+4) Now based on the dataset analysis, it is time to start a deeper analysis with additional research to understand if we can assume what kind of people live in a lcoation based on the local food inspection.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+Is it possible to use additional datasets during milestone 2 ? Our conclusions/analysis might bring us to want to compare the same study to different cities or a larger database with more parameters.
 
