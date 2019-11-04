@@ -1,0 +1,8 @@
+Dataset initial
+https://www.kaggle.com/chicago/chicago-food-inspections
+
+quartiers
+https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6
+
+Icons folium
+https://getbootstrap.com/docs/3.3/components/#glyphicons-glyphs
