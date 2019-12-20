@@ -21,8 +21,11 @@ We are going to use the Chicago Food Inspections dataset. We expect it to mainly
 
 # Contributions
 Luis De Lima Carvalho: Restaurants preprocessing code, risk score coding and large scale map plottings 
+
 Lucas Délez:
+
 Yura Tak:
+
 Stan Furrer:
 
 
