@@ -24,7 +24,7 @@ Luis De Lima Carvalho: Restaurants preprocessing code, risk score coding and lar
 
 Lucas Délez:
 
-Yura Tak:
+Yura Tak: Inspections analysis, final food filtering coding
 
 Stan Furrer:
 
